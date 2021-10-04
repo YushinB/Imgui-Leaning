@@ -4,3 +4,7 @@
 *.suo
 *.exe
 *.opendb
+*.pdb
+/temp
+*.ilk
+*.ini
